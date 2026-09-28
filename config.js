@@ -20,12 +20,12 @@ const CONFIG = {
   // 4) Clés Firebase — à copier depuis la console Firebase :
   //    Paramètres du projet ⚙️ → Général → Vos applications → Configuration du SDK (firebaseConfig)
   firebase: {
-    // >>> À REMPLACER par les clés du projet Firebase de Béziers <<<
-    apiKey: "A_COMPLETER",
-    authDomain: "A_COMPLETER",
-    databaseURL: "A_COMPLETER",
-    projectId: "A_COMPLETER",
-    storageBucket: "A_COMPLETER",
-    appId: "A_COMPLETER"
+    apiKey: "AIzaSyAnmgkxds7Gu74Nc1oEQkgkj4ABL87BKYA",
+    authDomain: "resultats-tir-beziers.firebaseapp.com",
+    databaseURL: "https://resultats-tir-beziers-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "resultats-tir-beziers",
+    storageBucket: "resultats-tir-beziers.firebasestorage.app",
+    messagingSenderId: "912620160277",
+    appId: "1:912620160277:web:1119b23799f2606ed0151c"
   }
 };
